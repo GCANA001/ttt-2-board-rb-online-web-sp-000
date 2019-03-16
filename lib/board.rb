@@ -1,1 +1,0 @@
-famous_cats = ["Cheshire Cat", "Puss in Boots", "Garfield"]
